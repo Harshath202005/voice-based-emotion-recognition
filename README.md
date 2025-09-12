@@ -177,6 +177,5 @@ Flask: Web framework
 Note: This project is for educational purposes. Always verify critical emotional assessments with qualified professionals.
 
 <div align="center">
-Made with ❤️ and 🎵
 
 </div>
