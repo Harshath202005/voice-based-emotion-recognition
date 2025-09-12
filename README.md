@@ -2,10 +2,6 @@
 Voice Emotion Recognition System
 An AI-powered system that classifies human emotions from voice recordings using deep learning and signal processing techniques.
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/TensorFlow-2.10%252B-orange
-https://img.shields.io/badge/LibROSA-Audio%2520Processing-yellow
-https://img.shields.io/badge/Flask-Web%2520Framework-lightgrey
 
 📋 Project Overview
 This project uses Convolutional Neural Networks (CNNs) to analyze voice recordings and classify them into 8 emotional categories:
@@ -129,9 +125,9 @@ Resize to 128x128 pixels
 Normalize and preprocess for CNN
 
 📊 Performance
-Training Accuracy: ~85-90%
+Training Accuracy: 85-90%
 
-Validation Accuracy: ~75-80%
+Validation Accuracy: 75-80%
 
 Inference Time: < 2 seconds per audio file
 
@@ -176,14 +172,7 @@ TensorFlow: Machine learning framework
 
 Flask: Web framework
 
-📞 Support
-For questions or issues:
 
-Check existing issues
-
-Create a new issue with detailed description
-
-Email: your-email@example.com
 
 Note: This project is for educational purposes. Always verify critical emotional assessments with qualified professionals.
 
